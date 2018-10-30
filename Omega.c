@@ -8,7 +8,4 @@ int main(void) {
 
 	printf("Hello World");
 
-	while (0 < 1) {
-
-	}
 }
